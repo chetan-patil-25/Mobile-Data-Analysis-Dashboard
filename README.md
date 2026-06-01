@@ -48,5 +48,6 @@ This project presents an interactive Power BI dashboard for analyzing mobile pho
 - Type-C is the most commonly used USB type.
 
 ## Author
-Chetan
+Chetan Patil
+
 Aspiring Data Analyst
